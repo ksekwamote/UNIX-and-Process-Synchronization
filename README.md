@@ -1,7 +1,7 @@
 # UNIX-and-Process-Synchronization
 
- * Copyright (c) 2013-2018
- * Frank Denis <j at pureftpd dot org>
+ * Copyright (c) 
+Kutlo Sekwamote
  *
  * Permission to use, copy, modify, and/or distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above
